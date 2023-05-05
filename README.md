@@ -1,0 +1,1 @@
+# CMN10300_update_amplify_setting_for_api
